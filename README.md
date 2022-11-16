@@ -24,7 +24,7 @@ Please make sure to propose the translation of only resource per pull request --
 |**Português**|not started|not started|not started|not started|
 |**Русский**|not started|not started|not started|not started|
 |**Türkçe**|not started|not started|not started|not started|
-|**Tiếng Việt**|not started|not started|not started|done|
+|**Tiếng Việt**|not started|not started|not started|not started|
 |**简体中文**|not started|not started|not started|not started|
 |**繁體中文**|not started|not started|not started|not started|
 
