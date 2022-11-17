@@ -1,4 +1,4 @@
-# Resources Translation
+# Resource Translation
 
 ## Goal
 This repository aims at collaboratively translating our [Data Science](https://github.com/natnew/Awesome-Data-Science) resources. 
