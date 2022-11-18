@@ -7,7 +7,7 @@ This repository aims at collaboratively translating our [Data Science](https://g
 Please review the the CONTRIBUTORS file for more information. 
 
 ## Important Note
-Please make sure to propose the translation of only resource per pull request -- it simplifies the review process.
+Please make sure to propose the translation of only one resource per pull request -- it simplifies the review process.
 
 ## Data Science
 ### 
